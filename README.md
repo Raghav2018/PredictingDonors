@@ -37,7 +37,7 @@ Extending this
 
 If you want to extend this work, here are a few places to start:
 
-* Run regression the scored dataset generated from 'Donors.py' and estimate return from direct mailing to maximise donation profits. 
+* Run regression on the scored dataset generated from 'Donors.py' and estimate return from direct mailing to maximise donation profits. 
 
 Current Result
 ----------------------
