@@ -1,4 +1,4 @@
-Predicting Donors - KDD Cup 1998 Data [Src](https://kdd.ics.uci.edu/databases/kddcup98/kddcup98.html)
+Predicting Donors - [KDD Cup 1998 Data](https://kdd.ics.uci.edu/databases/kddcup98/kddcup98.html)
 -------------------------------------
 
 Predict if previous donors of a national veteran organization is going to donate again. 
