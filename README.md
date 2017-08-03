@@ -19,9 +19,8 @@ Installation
 
 ### Install the requirements
  
-* Install the requirements using `pip install -r requirements.txt`.
-    * Make sure you use Python 3.
-    * You may want to use a virtual environment for this.
+* Make sure you use Python 3.
+* Install all the required libraries. (or choose an easy life and use Anaconda :D )
 
 Usage
 -----------------------
