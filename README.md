@@ -14,7 +14,7 @@ Installation
 * Get into the folder using `cd PredictingDonors`.
 * Download the data file 'cup98lrn.zip' from the data source mentioned above  
 * Extract the text file from the zip folder and open it in excel. 
-* Save the file as 'cup98lrn.zip' in a comma delimeted csv file format.
+* Save the file as 'cup98lrn.csv' (comma delimeted csv file format).
 * Remove all the zip files by running `rm *.zip`.
 
 ### Install the requirements
