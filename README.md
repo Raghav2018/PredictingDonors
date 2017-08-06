@@ -1,7 +1,7 @@
 Predicting Donors - [KDD Cup 1998 Data](https://kdd.ics.uci.edu/databases/kddcup98/kddcup98.html)
 -------------------------------------
 
-Predict if previous donors of a national veteran organization is going to donate again. 
+Problem Statement - Predict if the previous donors of a national veteran organization are going to donate again. 
 
 [Data Source](https://kdd.ics.uci.edu/databases/kddcup98/kddcup98.html)
 
